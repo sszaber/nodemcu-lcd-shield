@@ -13,3 +13,4 @@ LcdShieldButtonsTest — pokazuje wartości po naciśnięciu przycisków. Warto�
 shield_ENG - proste menu, które działa na odczytanych wartościach z przycisków.
 
 zrobiłem samouczek wideo pod tym linkiem.
+https://youtu.be/cQhwIugPLeU
