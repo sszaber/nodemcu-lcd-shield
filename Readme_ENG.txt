@@ -13,3 +13,4 @@ LcdShieldButtonsTest - shows values when you pressed buttons. Values can be used
 shield_ENG - simple menu who works on the readed values from the buttons.
 
 i maded video tutorial on this link.
+https://youtu.be/cQhwIugPLeU
