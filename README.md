@@ -29,3 +29,4 @@ shield_ENG - proste menu, które działa na odczytanych wartościach z przycisk�
 
 zrobiłem samouczek wideo pod tym linkiem.
 https://youtu.be/cQhwIugPLeU
+---------------------------------------------------------------------------------------------------------
