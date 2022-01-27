@@ -1,5 +1,4 @@
 HI. Its My first project on github.
-
 I will show you how you can connect LCD SHIELD to NODEMCU.
 
 schemat.jpg will shows you how you need to connect corectly wire and pins. 
@@ -14,7 +13,7 @@ shield_ENG - simple menu who works on the readed values from the buttons.
 
 i maded video tutorial on this link.
 https://youtu.be/cQhwIugPLeU
-
+----------------------------------------------------------------------------------------------------------
 CZEŚĆ. To mój pierwszy projekt na github.
 Pokażę Ci jak podłączyć LCD SHIELD do NODEMCU.
 
