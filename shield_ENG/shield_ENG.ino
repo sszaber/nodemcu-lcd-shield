@@ -53,4 +53,7 @@ int getKeyID()
   if( aRead > 300  ) return DOWN_KEY;        //right key
   if( aRead > 150   ) return UP_KEY;         //up key
   if( aRead < 30   ) return RIGHT_KEY;       //right key
+
+return 0;
 }
+
